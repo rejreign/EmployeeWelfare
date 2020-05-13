@@ -1,11 +1,11 @@
 # EmployeeWelfare
-The algo calculates employee Tax Multiplier, benefits, bonuses
+Given the following JavaScript functions:
 
-//What is the pay grade of the employee with a Salary of X = 75000?
-//How much in tax will an employee with a Salary of X = 25000 pay?
-//What is the bonus paid for an employee with a Salary of X = 45000?
-//What are the benefits for employees with a Salary between X = 60000 and 70000
-//What cadre does an employee with a Salary of X = 10000 belong?
+# What is the pay grade of the employee with a Salary of X = 75000?
+# How much in tax will an employee with a Salary of X = 25000 pay?
+# What is the bonus paid for an employee with a Salary of X = 45000?
+# What are the benefits for employees with a Salary between X = 60000 and 70000
+# What cadre does an employee with a Salary of X = 10000 belong?
 
 let Employee = {
   salary: 45000
